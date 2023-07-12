@@ -1,0 +1,1 @@
+pdftoppm example.pdf -l 12 -jpeg tmp/example.jpg && montage tmp/*.jpg -tile 3x4 -geometry +8+8 -background black example.jpg
