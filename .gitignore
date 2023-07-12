@@ -302,3 +302,4 @@ TSWLatexianTemp*
 
 *.pdf
 tmp/
+!example.pdf
